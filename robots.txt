@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lemandea.github.io/sitemap.html.gz
+Sitemap: https://lemandea.github.io/app/sitemap.html.gz
+Sitemap: https://lemandea.github.io/assets/sitemap.html.gz
+Sitemap: https://lemandea.github.io/css/sitemap.html.gz
+Sitemap: https://lemandea.github.io/includes/sitemap.html.gz
+Sitemap: https://lemandea.github.io/item/sitemap.html.gz
+Sitemap: https://lemandea.github.io/src/sitemap.html.gz
